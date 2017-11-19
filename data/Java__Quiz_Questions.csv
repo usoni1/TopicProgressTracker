@@ -1,0 +1,261 @@
+question,courseTopic,choiceA,choiceB,choiceC,choiceD,choiceE,numChoices,answer,level,
+"double[ ][ ] values = { {1.2, 9.2, 3.2}, {-3.2, 0.6, 1.5, -1.2}, {4.3, 7.8, 4.8} } ; 
+what is in values[2][1] ?",2D_Arrays,4.3,7.8,-3.2,There's no such element,,4,ChoiceB,Easy,
+"int[ ][ ] items = { {0, 1, 3, 4}, {4, 3, 66, 0, 7 }, {3, 2} } ; 
+Which of the following statements replaces the 66 with 77?",2D_Arrays,items[1][2] = 77;,items[2][1] = 77;,items[ 66 ] = 77;,items[2][3] = 77;,None of the menotioned,5,ChoiceA,Easy,
+"Assume that x, y, and z are all int equal to 50, 20, and 6 respectively.  What is the result of x / y / z?",Arithmetics,A run-time error because this is a division by 0,12,0,A syntax error as this is syntactically invalid,16,5,ChoiceC,Moderate,
+"The statement i++; is equivalent to	",Arithmetics,i = i + i;,i = i + 1;,i = i - 1;,i --;,,4,ChoiceB,Easy,
+"What does the following code print? 
+System.out.println(1 / 3);",Arithmetics,0.333333333,0,It will give a run-time error,0.3,It will give a compile-time error,5,ChoiceA,Easy,
+"What is the output of this program? 
+class increment{ 
+  public static void main(String args[]) { 
+    int g = 3; 
+    System.out.print(++g * 8); 
+  }
+}	",Arithmetics,24,25,32,34,None of the mentioned,5,ChoiceC,Moderate,
+"What value will z have if we execute the following assignment statement? float z = 5 / 10;	",Arithmetics,z will equal 0.0,z will equal 0.5,z will equal 5.0,z will equal 0.05,"none of the above, a run-time error arises because z is a float and 5 / 10 is an int",5,ChoiceA,Easy,
+"Which of the following is true regarding the mod operator, %?",Arithmetics,It can only be performed on int values and its result is a double,It can only be performed on int values and its result is an int,It can only be performed on float or double values and its result is an int,It can only be performed on float or double values and its result is a double,"It can be performed on any numeric values, and the result always is numeric",5,ChoiceE,Moderate,
+"Which of the following statement is NOT correct?	",Arithmetics,"In a class, you can have a method with the same name as the constructor.","In a class, you can have two methods with the same name and return type, but different number and type of input arguments.","In a class, you can have two methods with the same number and type of input arguments and different return type.",In a class you can have two constructors with the same name.,None of the above.,5,ChoiceC,Easy,
+"Consider the following code segment. Which of the following statements best describes the conditions need for temp to be true?
+ boolean temp = false; 
+for (int i = 0; i < a.length ; i++) {
+ temp = (a[i] == val); 
+} 
+return temp;",Arrays,whenever the first element in a is equal to val,Whenever a contains any element which equals val,Whenever the last element in a is equal to val,Whenever more than 1 element in a is equal to val,Whenever exactly 1 element in a is equal to val,5,ChoiceC,Difficult,
+"Given the following values of a and the method doubleLast what will the values of a be after you execute: doubleLast()? 
+private int[ ] a = {-10, -5, 1, 4, 8, 30}; 
+public void doubleLast() { 
+for (int i = a.length / 2; i < a.length; i++) { 
+a[i] = a[i] * 2; 
+} 
+}",Arrays,"{-20, -10, 2, 8, 16, 60}","{-20, -10, 2, 4, 8, 30}","{-10, -5, 1, 8, 16, 60}","{-10, -5, 1, 4, 8, 30}",None of the menotioned,5,ChoiceC,Moderate,
+"In Java, arrays are",Arrays,objects,object references,primitive data type,methods,None of the menotioned,5,ChoiceA,Easy,
+"int[] a = {5,6,7,8,9}; int[] b = a; b[2] = 10; What will be the value of a[2]?",Arrays,6,7,8,9,10,5,ChoiceE,Easy,
+"What is the output for the following code?
+int[] int_array = { 2,4,6,8,10};
+for (int i=0; i < int_array.length; i++){ 
+System.out.print( int_array[i] );
+}",Arrays,1234,246810,0 \n 1 \n 2 \n 3 \n 4,Compilation error.,None of the mentioned,5,ChoiceB,Easy,
+"What is the output of this program? 
+class evaluate { 
+public static void main(String args[]) { 
+int arr[] = new int[] {0 , 1, 2, 3, 4, 5, 6, 7, 8, 9}; 
+int n = 6; 
+n = arr[arr[n] / 2]; 
+System.out.println(arr[n] / 2); 
+}
+}",Arrays,3,0,6,1,Compilation error,5,ChoiceD,Difficult,
+"What is the result of compiling and running the following code? public class Test{
+public static void main(String[] args){ 
+int[] a = new int[0]; 
+System.out.print(a.length); 
+} 
+}",Arrays,0,"Compilation error, arrays cannot be initialized to zero size.","Compilation error, it is a.length() not a.length",1,None of the above.,5,ChoiceA,Easy,
+"What is the value of i after the following code has executed?
+int[] x = {2, 1, 4, 5, 7}; 
+int limit = 3; 
+int i = 0; 
+int sum = 0; 
+while ((sum < limit) && (i < x.length)) { 
+  i++; sum = sum + x[i];
+ }",Arrays,0,1,2,3,4,5,ChoiceC,Moderate,
+"What value for X will print all members of array ""values"" in the following code? 
+int values[] = {1,2,3,4,5,6,7,8}; 
+for(int i=0;i< X; i++) 
+System.out.println(values[i]); ",Arrays,7,8,9,"None, since there is a syntax error in the array declaration","None, because the first value is never printed",5,ChoiceA,Moderate,
+"What will be printed using following code block? int[] a = {0,1,2,3,4,5,6,7}; System.out.println(a.length);",Arrays,6,7,8,9,None of the menotioned,5,ChoiceC,Easy,
+"What will happen when following code fragment is compiled and run? int[] a = { 1, 2, 3 }; int[] b = { 1, 2, 3 }; System.out.println(a == b);",Arrays,prints true,prints false,compilation error,runtime error,prints 1,5,ChoiceB,Moderate,
+Which index is the last element in an array called nums at?,Arrays,nums.length,nums.length - 1,nums.length(),nums.length() - 1,None of the menotioned,5,ChoiceB,Easy,
+Which of the following statements are valid array declaration?,Arrays,int number();,float average[];,doubles[] marks;,counter int[];,None of the menotioned,5,ChoiceB,Easy,
+Which of these is an incorrect Statement?,Arrays,It is necessary to use new operator to initialize an array.,Array can be initialized using comma separated expressions surrounded by curly braces.,Array can be initialized when they are declared.,None of the montioned,,4,ChoiceA,Easy,
+You want to initialize all of the elements of a double array a to the same value equal to 1.5. What could you write? Assuming that the array has been correctly initialized.,Arrays,for(int i=1; i < a.length ; i++) a[i] = 1.5;,for(int i=0 ; i <= a.length ; i++) a[i] = 1.5;,for(int i=0 ; i < a.length ; i++) a[i] = 1.5;,for(int i=0 ; i < a.length+1 ; i++ ) a[i] = 1.5;,for(int i=0 ; i < a.length - 1 ; i++) a[i] = 1.5;,5,ChoiceC,Moderate,
+ A class is a template for multiple objects with similar features.,Classes,TRUE,FALSE,,,,2,ChoiceA,Easy,
+"In order to preserve encapsulation of an object, we would do all of the following except for which one?	",Classes,Make the instance data private,Define the methods in the class to access and manipulate the instance data,Make the methods of the class public,Make the class final,All of the above preserve encapsulation,5,ChoiceD,Easy,
+Instance variables for a Java class ,Classes,"are limited to primitive types (e.g., int, float, char)",are limited to Strings,"are limited to objects(e.g., Strings, classes defined by other programmers)","may be primitive types or objects, but objects must be defined to be private",may be primitive types or objects,5,ChoiceE,Moderate,
+The relationship between a class and an object is best described as,Classes,classes are instances of objects,objects are instances of classes,objects and classes are the same thing,classes are programs while objects are variables,objects are the instance data of classes,5,ChoiceB,Easy,
+"What is the return type of Constructors?	",Classes,int,String,void,float,None of the mentioned,5,ChoiceE,Easy,
+"Which of the following is a method having same name as that of its class?	",Classes,finalize,delete,constructor,class,None of the mentioned,5,ChoiceC,Easy,
+"Which of the following is a valid declaration of an object of class Box?	",Classes,Box obj = new Box();,Box obj = new Box;,obj = new Box();,new Box obj;,None of the mentioned,5,ChoiceB,Easy,
+Which of the following reserved words in Java is used to create an instance of a class?,Classes,class,public,"public or private, either could be used",import,new,5,ChoiceE,Easy,
+"A constructor is automatically called when an object is instantiated.	",Constructor,TRUE,FALSE,,,,2,ChoiceA,Easy,
+"What type of constructor is used to provide different values to the distinct objects?	",Constructor,Default constructor,Parameterized constructor,Overloading constructor,None of the mentioned,,4,ChoiceB,Easy,
+"Consider the following code that will assign a letter grade of ‘A’, ‘B’, ‘C’, ‘D’, or ‘F’ depending on a student’s test score. if (score >= 90) grade = 'A'; if (score >= 80) grade = 'B'; if (score >= 70) grade = 'C'; if (score >= 60) grade = 'D'; else grade = ‘F’; ",Control,This code will work correctly in all cases,This code will work correctly only if grade >= 60,This code will work correctly only if grade < 60,This code will work correctly only if grade < 70,This code will not work correctly under any circumstances,5,ChoiceD,Moderate,
+"Given the following code, where x = 0, what is the resulting value of x after the for-loop terminates? 
+for (int i=0;i<5;i++) x += i; ",Control,0,4,5,10,15,5,ChoiceD,Easy,
+"How many times will the following loop iterate? 
+int x = 10; 
+do { System.out.println(x); 
+x--; } while (x > 0); ",Control,0,1,9,10,11,5,ChoiceE,Easy,
+"Translate this statement into Java: If the value of temperature is in between 20.0 and 40.0, print “very cold”.",Control,"if( ! (temperature < 20.0 || temperature > 40.0))  System.out.println(""very cold"");","if( 20.0 <= temperature <= 40.0)  System.out.println(""very cold"");","if( temperature >= 20.0 || temperature <= 40.0)  System.out.println(""very cold"");","if( temperature >= 20.0 | temperature <= 40.0)   System.out.println(""very cold"");",,4,ChoiceA,Difficult,
+"What is wrong, logically, with the following code? 
+if (x > 10) 
+System.out.println(""Large""); else if (x > 6 && x <= 10) System.out.println(""Medium""); else if (x > 3 && x <= 6) System.out.println(""Small""); else System.out.println(""Very small""); ",Control,"There is no logical error, but there is no need to have (x <= 10) in the second conditional or (x <= 6) in the third conditional","There is no logical error, but there is no need to have (x > 6) in the second conditional or (x > 3) in the third conditional","The logical error is that no matter what value x is, Very small� is always printed out","The logical error is that no matter what value x is, Large is always printed out",There is nothing wrong with the logic at all,5,ChoiceA,Moderate,
+"Which of the following is a loop construct that will always be executed once?	",Control,switch,for,while,do...while,,4,ChoiceD,Easy,
+How many different int type exists in Java?,DataType,1,2,3,4,,4,ChoiceD,Easy,
+"Of the following types, which one cannot store a numeric value?",DataType,int,double,char,float,byte,5,ChoiceC,Easy,
+"The process of converting one date type to another is called __________	",DataType,Translating,Casting,Compiling,Declaring,,4,ChoiceB,Easy,
+What is the data type for the number 19.7634?,DataType,Number,int,float,double,Double,5,ChoiceD,Easy,
+What is the error in this code? byte b = 50; b = b * 50;,DataType,"b can not contain value 100, limited by its range."," * operator has converted b * 50 into int, which can not be converted to byte without casting.", b can not contain value 50.,No error in the code,,4,ChoiceB,Difficult,
+"What does this print when x is assigned 1? 
+if (x==1) { 
+  System.out.print(""x is 1""); 
+} 
+if (x==2) { 
+  System.out.print(""x is 2""); 
+} 
+else { 
+  System.out.print(""not 1 or 2"");
+ }	",Decisions,x is 1,x is 2,x is 1  x is 2,x is 1  not 1 or 2,x is 2  not 1 or 2,5,ChoiceD,Moderate,
+"What is the output of this program? 
+class selection_statements { 
+  public static void main(String args[]) { 
+    int var1 = 5; 
+    int var2 = 6; 
+    if ((var2 = 1) == var1) 
+      System.out.print(var2); 
+    else System.out.print(++var2);
+   }
+ }	",Decisions,1,2,3,5,7,5,ChoiceB,Difficult,
+"What will happen when you attempt to compile and run the following code? 
+int Output = 10; 
+boolean b1 = false; 
+if((b1 == true) && ((Output += 10) == 20)) { 
+  System.out.println(""We are equal "" + Output); } 
+else { 
+  System.out.println(""Not equal! "" + Output); }	",Decisions,"Compilation error, attempting to perform binary comparison on logical data type.","Compilation and output of ""We are equal 10"".","Compilation and output of ""Not equal! 20"".","Compilation and output of ""Not equal! 10"".",None of the mentioned,5,ChoiceD,Difficult,
+Which of the following expressions is equivalent to !(c || d) ?,Decisions,(!c) && (!d),(c || d),(c && d),!(c && d),(!c) || (!d),5,ChoiceA,Easy,
+"What will be the result of the following assignment statement?  
+int a = b * (-c + 2) / 2;
+When b = 5 , c = 10. 
+",Expression,5,20,30,-30,-20,5,ChoiceE,Moderate,
+Which of the following characters does not need to have an associated “closing” character in a Java program?,Expression,(,<,[,{,All of the above,5,ChoiceA,Easy,
+"The input/output package usually used with Java is:	",InputOutput,java.input,java.io,java.inout,java.file,None of the mentioned,5,ChoiceB,Easy,
+"What does AWT stands for?	",InputOutput,All Window Tools,All Writing Tools,Abstract Window Toolkit,Abstract Writing Toolkit,None of the above.,5,ChoiceC,Easy,
+"What is a buffer?	",InputOutput,A section of memory used as a staging area for input or output data.,The cable that connects a data source to the bus.,Any stream that deals with character IO.,A file that contains binary data.,None of the mentioned,5,ChoiceA,Easy,
+"What is the name of the abstract base class for streams dealing with character input?	",InputOutput,InputStream,OutputStream,Reader,Writer,None of the mentioned,5,ChoiceC,Moderate,
+A Java program is best classified as,Java,Hardware,Software,Storage,Processor,Input,5,ChoiceB,Easy,
+"All syntax errors are known as ______________ errors.	",Java,Run-time,Logical,Compile-time,Exception,,4,ChoiceC,Easy,
+"Java is an example of a(n)	",Java,machine language,assembly language,high-level language,fourth-generation language,None of the mentioned,5,ChoiceC,Easy,
+Java is similar in syntax to what other high level language?,Java,Pascal,BASIC,FORTRAN,Ada,C++,5,ChoiceE,Easy,
+"JVM stands for?	",Java,Java Very Large Machine,Java Verified Machine,Java Vast Machine,Java Virtual Machine,None of the mentioned,5,ChoiceD,Easy,
+"System class is defined in which of the following package?	",Java,java.util package,java.lang package,java.io package,java.awt package,None of the mentioned,5,ChoiceB,Easy,
+"The line of Java code // System.out.println(""Hello"");� will",Java,"Cause ""(Hello)"" to be output",Cause a syntax error,Do nothing,There is no way to know without executing this line of code,,4,ChoiceC,Easy,
+Visibility modifiers include,Java,"public, private","public, private, protected","public, private, protected, final","public, protected, final, static","public, private, protected, static",5,ChoiceB,Moderate,
+ Each pass through a loop is called a/an?,Loops,enumeration,iteration,culmination,pass through,None of the mentioned,5,ChoiceB,Easy,
+" What does the following code print? 
+int x = -5; 
+while (x < 0) { 
+x++; System.out.print(x + "" ""); 
+}",Loops,5 4 3 2 1,1 2 3 4 5,-15,-4 -3 -2 -1 0,None of the menotioned,5,ChoiceD,Easy,
+"Assume M and N are positive integers. What does the following code print? 
+int sum=0; 
+for (int j=0; j<M; j++) { 
+  for (int i=0; i<N; i++) { 
+    if (N%2==0) { 
+      sum += 1; 
+    } 
+  } 
+} 
+System.out.println(sum);	",Loops,M,M^N,M*N,M*N/2,M*(N/2+1),5,ChoiceD,Moderate,
+"Given the following code, where x = 0, what is the resulting value of x after the for-loop terminates? for (int i=0;i<5;i++) x += i;	",Loops,0,5,4,10,15,5,ChoiceD,Easy,
+"How many times does the following Java code print ""hello world""? 
+
+for (int i=10; i>=4; i++) { 
+  System.out.print(""hello world""); 
+}	",Loops,0,1,5,6,None of the mentioned,5,ChoiceE,Moderate,
+"How many times will the following loop iterate? int x = 10; do { System.out.println(x); x--; } while (x > 0);	",Loops,0,1,9,10,11,5,ChoiceE,Easy,
+"The code fragment given below was intended to read values until a negative value was read and then to print the product of the positive values read. Unfortunately, it does not work. 
+
+Scanner kbd = new Scanner(System.in); 
+int x, product; product = 0;
+x = kbd.nextInt(); 
+while (x >= 0) { 
+  if (x > 0) { 
+    product *= x; 
+  } 
+  x = kbd.nextInt(); 
+  } 
+System.out.println(product); 
+
+Which of the following best describes the error that prevents the code from computing the correct answer?",Loops,Variable x is not initialized correctly.,Variable product is not initialized correctly.,The loop is executed one too many times.,The loop is executed one two few times.,None of the mentioned,5,ChoiceB,Difficult,
+"What does the following Java code print? 
+int inner=0; 
+int outer=0; 
+for (int i=0; i<6; i++) { 
+  outer++; 
+  for (int j=0; j<=3; j++) { 
+    inner++; 
+  } 
+} 
+System.out.println(""outer ""+outer+"", inner""+inner);	",Loops,"outer 6, inner 3","outer 7, inner 4","outer 6, inner 18","outer 7, inner 24","outer 6, inner 24",5,ChoiceE,Moderate,
+"What will be outputted? 
+int num = 3; 
+int counter = 1; 
+boolean condition = true;
+while(condition){ 
+  num+= counter++; 
+  if(num>10){ 
+    condition=false; 
+    num+= ++counter; 
+  } 
+}	",Loops,counter = 5 num = 16,counter = 5 num = 17,counter = 6 num = 16,counter = 6 num = 19,None of the mentioned,5,ChoiceD,Difficult,
+"What's wrong for the following code fragment? 
+while( (i < 10) && (i > 24))	",Loops,the logical operator && cannot be used in a test condition,the while loop is an exit-condition loop,the test condition is always false,the test condition is always true,Too many brackets,5,ChoiceC,Moderate,
+"Which of the following makes an appropriate pre-condition for this code? 
+double calculate_percentage(double sum, double n) 
+{ 
+  // calculates and returns a percentage given a sum and a length (n) 
+  // <missing pre-condition> 
+  // POST: none 
+  return (sum / n) * 100; 
+}	",Loops,sum < 100,n != 0,sum != NULL and n != NULL,n < 0,None of the mentioned,5,ChoiceB,Moderate,
+" If a class has multiple methods by same name but different parameters, it is known as?",Method,Constructor overloading,Method overloading,Operator overloading,None of the mentioned,,4,ChoiceB,Moderate,
+"Consider a method defined with the header: public void foo(int a, int b){... } Which of the following method calls is legal?",Method,"foo(0, 0.1);","foo(0 / 1, 2 * 3);",foo(0);,foo();,"foo(1 + 2, 3 * 0.1);",5,ChoiceB,Moderate,
+The main method for a Java program is defined by,Method,public static void main( ),public static void main(String[ ] args);,public static void main(String[ ] args),private static void main(String[ ] args),"the main method could be defined as in a, c or d but not b",5,ChoiceC,Easy,
+"What is the output of the following program? 
+class equality {        
+int x;        
+int y;        
+boolean isEqual(){            
+return(x == y);          
+}     
+}        
+class Output {        
+public static void main(String args[])        {
+            equality obj = new equality();
+            obj.x = 5;
+            obj.y = 5;
+            System.out.println(obj.isEqual());
+        }
+     }",Method,FALSE,TRUE,0,1,,4,ChoiceB,Easy,
+"What is the output of this program? 
+class output { public static void main(String args[]) { 
+StringBuffer c = new StringBuffer(""Hello""); 
+System.out.println(c.length()); 
+}
+}	",Method,4,5,6,7,8,5,ChoiceB,Easy,
+"What will be displayed by this command: System.out.println(Math.pow(3, 3-1));",Method,9,8,7,4,24,5,ChoiceA,Moderate,
+"Which method can be defined only once in a program?	",Method,public method,private method,finalize method,main method,static method,5,ChoiceD,Easy,
+Which of the following methods is a static method? The class in which the method is defined is given in parentheses following the method name.,Method,equals (String),toUpperCase (String),sqrt (Math),format (DecimalFormat),paint (Applet),5,ChoiceC,Moderate,
+"In Java, instantiation� means",Objects,Noticing the first time something is used.,Creating a new object.,Creating a new alias to an existing object.,Launching a method.,None of the mentioned.,5,ChoiceB,Easy,
+"What is stored in obj in following line of code? Box obj;	",Objects,Memory address of allocated memory of object,NULL,Any arbitrary pointer,Garbage,None of the mentioned,5,ChoiceB,Easy,
+Which of these is TRUE of the relationship between objects and classes?,Objects,A class is an instance of an object.,An object is the ancestor of its subclass.,An object is an instance of a class.,An object is the descendant of its superclass.,,4,ChoiceC,Easy,
+"Decrement operator, -- , decreases value of variable by what number?",Operator,1,2,3,4,None of the above,5,ChoiceA,Easy,
+"In Java, the symbol =� and the symbol == are used synonymously (interchangeably).	",Operator,TRUE,FALSE,,,,2,ChoiceB,Easy,
+"What is the function of the dot operator?	",Operator,It serves to separate the integer portion from the fractional portion of a floating point number,It allows one to access the data within an object when given a reference to the object,It allows one to invoke a method within an object when given a reference to the object,It is used to terminate commands (much as a period terminates a sentence in English),Both (b) and (c) are correct,5,ChoiceE,Easy,
+Which of the following is not assignment operator?,Operator,++,==,%=,=,,4,ChoiceB,Easy,
+How many primitive data type are there in Java?,Primitive Data Type,5,6,7,8,9,5,ChoiceD,Easy,
+"What does the following code print? 
+System.out.println(2 % 3);",Primitive Data Type,2,0,3,1,,4,ChoiceA,Easy,
+"Consider having three String variables a, b, and c.  The statement c = a + b; also can be achieved by saying",Strings,c = a.length( ) + b.length( );,c = (int) a + (int) b;,c = a.concat(b);,c = b.concat(a);,c = a.plus(b);,5,ChoiceC,Moderate,
+"Consider the following statement: System.out.println(""1 big bad wolf\t8 the 3 little pigs\n4 dinner\r2night""�); This statement will output ___ lines of text",Strings,5,4,3,2,1,5,ChoiceD,Easy,
+"If the String major = ""Computer Science"", what is returned by major.charAt(1)?",Strings,'C','o','Science',"""C""","""Computer""",5,ChoiceB,Moderate,
+"If you want to output the text ""hi there""�, including the quote marks, which of the following could do that?",Strings,"System.out.println(""hi there"");","System.out.println(""""hi there"""");","System.out.println(""\""hi there\"""");","System.out.println(""\""hi there"");",None of the above,5,ChoiceD,Easy,
+The word println is a(n)  ___________ in Java,Strings,String,Method,Class,Variable,Reserved word,5,ChoiceB,Easy,
+Which of these data type value is returned by equals() method of String class?,Strings,Strings,char,boolean,double,All of the mentioned,5,ChoiceC,Easy,
+A variable whose scope is restricted to the method where it was declared is known as a(n),Variables,parameter,global variable,public instance data,private instance data ,local variable,5,ChoiceE,Easy,
+"In order to create a constant, you would use which of the following Java reserved words?",Variables,private,static,int,final,class,5,ChoiceD,Easy,
+"Java is a case-sensitive language meaning that Current, current and CURRENT will all reference the same identifier",Variables,TRUE,FALSE,,,,2,ChoiceB,Easy,
+What happens if you attempt to use a variable before it has been initialized?,Variables,A syntax error may be generated by the compiler,A runtime error may occur during execution,A garbage� or uninitialized� value will be used in the computation,A value of zero is used if a variable has not been initialized,Answers (a) and (b) are correct,5,ChoiceE,Difficult,
+Which of the following would be a good variable name for the current value of a stock?,Variables,theCurrentValueOfThisStockIs,Current,Curstoval,Stock,currentStockVal,5,ChoiceE,Easy,
