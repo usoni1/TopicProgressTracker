@@ -40,7 +40,7 @@ if __name__ == "__main__":
     for i in range(number_of_users):
         all_docs.append(create_doc('user' + str(i + 1), max_number_of_sessions, course_topics))
 
-    f = open('user_session_history.json', 'w')
+    f = open('user_session_history.js', 'w')
     json.dump(all_docs, f, indent=4, separators=(',', ':'))
 
 
