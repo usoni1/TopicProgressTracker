@@ -25,6 +25,7 @@ def create_doc(username, max_number_of_sessions, course_topics):
 
 if __name__ == "__main__":
     course_topics = {}
+    topic_list = []
     with codecs.open('Java__Quiz_Questions.csv', "r", encoding='utf-8', errors='ignore') as fdata:
         csv = pandas.read_csv(fdata)
         for idx, row in csv.iterrows():
@@ -32,15 +33,21 @@ if __name__ == "__main__":
                 course_topics[row["courseTopic"]] += 1
             else:
                 course_topics[row["courseTopic"]] = 1
+                topic_list.append(row["courseTopic"])
 
     number_of_users = 50
     max_number_of_sessions = 30
     total_number_of_topics = len(course_topics)
+
+    f = open('topic_list.js', 'w')
+    json.dump(topic_list, f, indent=4, separators=(',', ":"))
+    f.close()
+
     all_docs = []
     for i in range(number_of_users):
         all_docs.append(create_doc('user' + str(i + 1), max_number_of_sessions, course_topics))
 
     f = open('user_session_history.js', 'w')
     json.dump(all_docs, f, indent=4, separators=(',', ':'))
-
+    f.close()
 

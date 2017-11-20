@@ -37,3 +37,11 @@
     width: 100%;
     background: rgba(210, 255, 255, 0.5);
 }
+
+#topic_progress .bar {
+    fill: steelblue;
+}
+
+#topic_progress .bar:hover {
+    fill: brown;
+}
