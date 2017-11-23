@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  crossorigin="anonymous"></script>
+    <script src="js/lib/d3.js" ></script>
+</head>
+<body>
+    <svg id="test" height="400" width="400">
+
+    </svg>
+    <script>
+        var svg = d3.select("svg");
+        var area_data = [[[100, 200, 100], [200, 200, 50]]];
+
+        var area = d3.area()
+            .x(function(d) {return d[0];})
+            .y0(function(d) {return d[1];})
+            .y1(function(d) {return d[2];});
+
+        var g = svg.append("g")
+            .attr("transform", "translate(20, 20)");
+
+        g.selectAll("path")
+            .data(area_data)
+            .enter()
+            .append("path")
+            .attr("class", "area")
+            .style("fill", "green")
+            .attr("d", area);
+
+    </script>
+</body>
+</html>

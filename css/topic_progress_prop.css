@@ -45,3 +45,17 @@
 #topic_progress .bar:hover {
     fill: brown;
 }
+
+.connecting_lines {
+    stroke-width: "2";
+    stroke: black;
+}
+
+#topic_progress .bars_rect {
+    stroke: black;
+    stroke-width: 1;
+}
+
+#topic_progress .bar_text {
+    fill: black;
+}

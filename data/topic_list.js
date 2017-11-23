@@ -1,4 +1,5 @@
-var topic_list = [
+var topic_list = 
+[
     "2D_Arrays",
     "Arithmetics",
     "Arrays",
