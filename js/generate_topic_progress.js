@@ -6,7 +6,7 @@ var svg = d3.select("#topic_progress_svg"),
     g = svg.append("g").attr("transform", "translate(" + margin.left + ", " + margin.right + ")"),
     padding = 0.8;
 
-    var username = "user5"; //todo use this as a function argument
+    var username = "user20"; //todo use this as a function argument
     var data = user_session_history;
 
     data = data.filter(function(t) {

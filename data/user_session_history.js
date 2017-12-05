@@ -5,117 +5,43 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
+                    "topic_name":"Control",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Control",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":8
-                },
-                {
                     "topic_name":"Objects",
                     "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":2
-                },
                 {
                     "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                },
+                    "number_of_questions":1
+                }
+            ],
+            [
                 {
                     "topic_name":"Objects",
-                    "number_of_questions":1
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
                     "number_of_questions":1
                 }
             ],
@@ -131,58 +57,144 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
                     "topic_name":"Primitive Data Type",
                     "number_of_questions":1
                 }
             ],
             [
                 {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
                     "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
                     "number_of_questions":2
                 }
-            ]
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            []
         ]
     },
     {
@@ -190,96 +202,211 @@ var user_session_history =
         "user_sessions":[
             [
                 {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
                     "topic_name":"Arithmetics",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Control",
                     "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
+                },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":5
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Control",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":5
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":2
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":5
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
                     "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":5
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Operator",
+                    "topic_name":"Variables",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ],
+            [],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Strings",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -289,240 +416,180 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
                     "topic_name":"Constructor",
                     "number_of_questions":2
                 },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
                 {
                     "topic_name":"Operator",
                     "number_of_questions":3
                 },
                 {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
                     "topic_name":"Variables",
-                    "number_of_questions":5
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -532,377 +599,239 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Variables",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Constructor",
+                    "topic_name":"Arrays",
                     "number_of_questions":1
                 },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
                 {
                     "topic_name":"Method",
-                    "number_of_questions":6
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
                     "topic_name":"Strings",
-                    "number_of_questions":4
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":5
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":8
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
+                    "topic_name":"Primitive Data Type",
                     "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":6
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arrays",
+                    "topic_name":"Classes",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Control",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
                 }
             ],
+            [],
             [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                },
                 {
                     "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
+                    "topic_name":"Decisions",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Objects",
-                    "number_of_questions":3
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Objects",
                     "number_of_questions":2
                 }
             ]
@@ -913,272 +842,114 @@ var user_session_history =
         "user_sessions":[
             [
                 {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
                     "topic_name":"2D_Arrays",
                     "number_of_questions":2
                 },
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [
                 {
                     "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
+                    "topic_name":"Expression",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":4
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Constructor",
+                    "topic_name":"Expression",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Constructor",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
                 }
             ]
         ]
@@ -1188,8 +959,36 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Java",
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Method",
@@ -1198,178 +997,175 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
+                    "topic_name":"Classes",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":12
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
                     "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Objects",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -1379,312 +1175,323 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
+                    "topic_name":"InputOutput",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":6
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 }
             ]
         ]
     },
     {
         "username":"user8",
-        "user_sessions":[]
+        "user_sessions":[
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ]
+        ]
     },
     {
         "username":"user9",
         "user_sessions":[
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                }
-            ],
-            [
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                }
-            ],
-            [
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Java",
                     "number_of_questions":3
@@ -1692,19 +1499,67 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
                     "number_of_questions":1
                 },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
                 {
                     "topic_name":"Control",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Strings",
                     "number_of_questions":1
                 }
             ],
@@ -1714,251 +1569,23 @@ var user_session_history =
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":14
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
                     "topic_name":"Constructor",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Operator",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
                 }
             ],
             [
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":5
-                }
-            ],
-            [
+                    "number_of_questions":2
+                },
                 {
                     "topic_name":"Operator",
                     "number_of_questions":1
@@ -1966,8 +1593,44 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -1977,110 +1640,57 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Operator",
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Classes",
                     "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
                 },
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Classes",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"2D_Arrays",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
                 }
             ],
+            [],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Strings",
@@ -2088,121 +1698,141 @@ var user_session_history =
                 }
             ],
             [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Expression",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
                 }
             ],
             [
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":11
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Control",
                     "number_of_questions":3
                 }
-            ]
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            []
         ]
     },
     {
@@ -2210,322 +1840,208 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
                     "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Operator",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Method",
-                    "number_of_questions":5
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Expression",
                     "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
                 },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
                 {
                     "topic_name":"InputOutput",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -2535,84 +2051,22 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Objects",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Method",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Objects",
                     "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
+                    "topic_name":"Strings",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Variables",
@@ -2621,22 +2075,163 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Control",
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"DataType",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Control",
+                    "topic_name":"InputOutput",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
                 }
             ],
             [
@@ -2645,50 +2240,11 @@ var user_session_history =
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Expression",
                     "number_of_questions":2
                 }
             ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ]
+            []
         ]
     },
     {
@@ -2696,86 +2252,36 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                },
-                {
                     "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":14
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Strings",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Operator",
                     "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 }
             ],
             [
@@ -2787,7 +2293,49 @@ var user_session_history =
             [
                 {
                     "topic_name":"Control",
-                    "number_of_questions":4
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
                 }
             ],
             [
@@ -2796,12 +2344,212 @@ var user_session_history =
                     "number_of_questions":2
                 },
                 {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ]
+        ]
+    },
+    {
+        "username":"user14",
+        "user_sessions":[
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
                     "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Java",
-                    "number_of_questions":8
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Variables",
@@ -2810,42 +2558,49 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Control",
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
+                    "topic_name":"Java",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Strings",
                     "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Decisions",
@@ -2853,20 +2608,95 @@ var user_session_history =
                 },
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":7
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
                     "number_of_questions":2
                 }
-            ]
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [],
+            []
         ]
-    },
-    {
-        "username":"user14",
-        "user_sessions":[]
     },
     {
         "username":"user15",
@@ -2874,129 +2704,194 @@ var user_session_history =
             [
                 {
                     "topic_name":"Method",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Operator",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Variables",
+                    "topic_name":"Strings",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Variables",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
                     "number_of_questions":3
                 }
             ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                }
-            ],
+            [],
             [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":4
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -3006,258 +2901,207 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":13
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                },
-                {
                     "topic_name":"Constructor",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
+                    "topic_name":"Decisions",
                     "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Operator",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":2
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Decisions",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arithmetics",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"DataType",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"DataType",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
                 }
             ],
+            [],
+            [],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
+                    "topic_name":"Expression",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Java",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Variables",
                     "number_of_questions":2
                 }
             ],
             [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                }
-            ],
-            [
                 {
                     "topic_name":"Method",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
                     "number_of_questions":1
                 }
-            ]
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            []
         ]
     },
     {
@@ -3265,292 +3109,195 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":2
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Java",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
                 },
                 {
                     "topic_name":"Strings",
                     "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Variables",
                     "number_of_questions":2
-                },
+                }
+            ],
+            [
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
+                    "topic_name":"Classes",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
+                    "topic_name":"Java",
+                    "number_of_questions":2
                 }
             ],
+            [],
+            [],
             [
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":12
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Primitive Data Type",
                     "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
                 },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                }
-            ],
-            [
                 {
                     "topic_name":"Operator",
                     "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Java",
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
+                    "topic_name":"Control",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
+                    "topic_name":"Control",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":5
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
-            ]
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            []
         ]
     },
     {
@@ -3558,22 +3305,200 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Objects",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"2D_Arrays",
-                    "number_of_questions":1
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Loops",
                     "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
                 }
             ]
         ]
@@ -3583,250 +3508,121 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Classes",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
                     "topic_name":"Arrays",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
+                    "topic_name":"Operator",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Strings",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":6
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
                 },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
                 {
                     "topic_name":"DataType",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Strings",
+                    "topic_name":"Expression",
                     "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Strings",
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
                 {
                     "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Objects",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
+                    "topic_name":"Java",
                     "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Variables",
+                    "topic_name":"Loops",
                     "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
                 }
             ]
         ]
@@ -3836,28 +3632,113 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Objects",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Decisions",
                     "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":2
                 }
             ]
         ]
@@ -3867,119 +3748,162 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Operator",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Variables",
+                    "topic_name":"Operator",
                     "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":4
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":7
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"Objects",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
                     "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":10
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
                     "number_of_questions":3
                 }
             ],
@@ -3988,77 +3912,79 @@ var user_session_history =
                     "topic_name":"Classes",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                }
-            ],
-            [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Java",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
+                    "topic_name":"Variables",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -4068,148 +3994,203 @@ var user_session_history =
         "user_sessions":[
             [
                 {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
                     "topic_name":"Expression",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Strings",
                     "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Operator",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
+                    "topic_name":"Classes",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Java",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Classes",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
+                    "topic_name":"Classes",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Java",
                     "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -4219,59 +4200,60 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Java",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
                 }
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":2
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
+                    "number_of_questions":1
                 }
             ],
             [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Strings",
                     "number_of_questions":1
@@ -4281,13 +4263,99 @@ var user_session_history =
                 {
                     "topic_name":"Classes",
                     "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":1
                 }
             ],
             [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                },
                 {
                     "topic_name":"Primitive Data Type",
                     "number_of_questions":1
@@ -4295,14 +4363,46 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Operator",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -4312,32 +4412,215 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Operator",
+                    "topic_name":"Classes",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Operator",
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -4347,220 +4630,202 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
+                    "topic_name":"Strings",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Expression",
-                    "number_of_questions":2
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 }
             ],
             [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Constructor",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"DataType",
+                    "topic_name":"Loops",
                     "number_of_questions":2
                 },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":10
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Operator",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
                 }
             ],
             [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
                 {
                     "topic_name":"Arrays",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Loops",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -4570,19 +4835,71 @@ var user_session_history =
         "user_sessions":[
             [
                 {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
                     "topic_name":"Constructor",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
+                    "topic_name":"DataType",
+                    "number_of_questions":1
                 },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
                 {
                     "topic_name":"DataType",
                     "number_of_questions":2
@@ -4592,57 +4909,13 @@ var user_session_history =
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"InputOutput",
                     "number_of_questions":3
                 }
             ],
@@ -4652,12 +4925,12 @@ var user_session_history =
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
+                    "topic_name":"Objects",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Primitive Data Type",
@@ -4666,56 +4939,67 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Loops",
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"InputOutput",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -4725,330 +5009,184 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
+                    "topic_name":"Decisions",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
                 {
                     "topic_name":"Expression",
                     "number_of_questions":2
                 }
             ],
             [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
                 {
                     "topic_name":"Decisions",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
+                    "topic_name":"Variables",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Java",
                     "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -5058,31 +5196,112 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
                 {
                     "topic_name":"DataType",
                     "number_of_questions":1
                 },
                 {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
                     "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
                     "number_of_questions":1
                 },
                 {
@@ -5092,62 +5311,8 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Classes",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
                 },
                 {
                     "topic_name":"InputOutput",
@@ -5156,164 +5321,60 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
                     "topic_name":"Classes",
-                    "number_of_questions":8
-                }
-            ],
-            [
+                    "number_of_questions":1
+                },
                 {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
                     "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":8
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":7
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":2
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -5323,258 +5384,82 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
                     "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
                 },
                 {
                     "topic_name":"Control",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Classes",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":10
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Control",
-                    "number_of_questions":6
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Primitive Data Type",
@@ -5583,17 +5468,135 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Loops",
                     "number_of_questions":1
                 }
             ]
@@ -5604,336 +5607,108 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Method",
                     "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
                     "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Constructor",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Method",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Variables",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
+                    "topic_name":"Decisions",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":9
+                    "number_of_questions":3
                 },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                }
-            ],
-            [
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":6
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
@@ -5941,7 +5716,99 @@ var user_session_history =
                     "topic_name":"Strings",
                     "number_of_questions":3
                 }
-            ]
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            []
         ]
     },
     {
@@ -5949,39 +5816,7 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
                     "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
                     "number_of_questions":1
                 },
                 {
@@ -5991,36 +5826,121 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Arrays",
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":6
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Method",
                     "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":7
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
+                    "topic_name":"DataType",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Variables",
@@ -6029,12 +5949,8 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
+                    "topic_name":"DataType",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -6044,7 +5960,47 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Classes",
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
                     "number_of_questions":1
                 },
                 {
@@ -6053,170 +6009,108 @@ var user_session_history =
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Variables",
                     "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":3
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":3
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
                     "number_of_questions":3
-                }
-            ],
-            [
+                },
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                }
-            ],
-            [
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
                     "number_of_questions":2
                 }
             ],
             [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
                 {
                     "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
                     "number_of_questions":3
                 }
             ],
@@ -6228,100 +6122,18 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Classes",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":1
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -6331,18 +6143,16 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Method",
+                    "topic_name":"Classes",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Primitive Data Type",
@@ -6351,24 +6161,12 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":4
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Primitive Data Type",
@@ -6378,243 +6176,154 @@ var user_session_history =
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":6
-                },
+                    "number_of_questions":1
+                }
+            ],
+            [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":5
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
+                    "topic_name":"Strings",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":4
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"InputOutput",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
+                    "topic_name":"Method",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":1
                 }
             ],
+            [],
             [
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":2
                 }
             ],
             [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
                 {
                     "topic_name":"DataType",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Decisions",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"DataType",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Control",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
+                    "topic_name":"Java",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"InputOutput",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
                 }
             ]
         ]
@@ -6624,46 +6333,160 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Classes",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Objects",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":5
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 },
                 {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
                     "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Constructor",
                     "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
                 }
             ],
             [
@@ -6672,10 +6495,47 @@ var user_session_history =
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Variables",
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
                     "number_of_questions":1
                 }
-            ]
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            []
         ]
     },
     {
@@ -6683,32 +6543,137 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
+                    "topic_name":"Java",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 },
                 {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
                     "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 }
             ],
             [
@@ -6719,31 +6684,45 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
+                    "topic_name":"Classes",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":2
                 }
             ],
@@ -6753,76 +6732,18 @@ var user_session_history =
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":10
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
+                    "topic_name":"Loops",
                     "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":3
-                },
                 {
                     "topic_name":"Control",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"Expression",
-                    "number_of_questions":1
+                    "number_of_questions":2
                 }
             ]
         ]
@@ -6832,47 +6753,53 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Decisions",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":7
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
                     "number_of_questions":2
                 }
             ],
@@ -6882,12 +6809,50 @@ var user_session_history =
                     "number_of_questions":1
                 },
                 {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
                     "topic_name":"Arithmetics",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Variables",
@@ -6896,104 +6861,87 @@ var user_session_history =
             ],
             [
                 {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
                     "topic_name":"Arithmetics",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Method",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"Arithmetics",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Control",
-                    "number_of_questions":5
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -7003,120 +6951,26 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
                     "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":10
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
                 {
                     "topic_name":"Expression",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
                     "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Operator",
@@ -7124,89 +6978,147 @@ var user_session_history =
                 },
                 {
                     "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
                     "number_of_questions":1
                 }
             ],
+            [],
+            [],
             [
                 {
                     "topic_name":"Method",
-                    "number_of_questions":7
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
                 }
             ],
             [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
                 {
                     "topic_name":"Classes",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":4
+                    "topic_name":"Variables",
+                    "number_of_questions":2
                 }
             ],
             [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":4
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
                 }
             ]
         ]
@@ -7216,137 +7128,37 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Arithmetics",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
+                    "topic_name":"Primitive Data Type",
                     "number_of_questions":2
                 }
             ],
+            [],
             [
                 {
-                    "topic_name":"Arrays",
+                    "topic_name":"Objects",
                     "number_of_questions":3
                 }
             ],
+            [],
             [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":15
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":14
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Operator",
                     "number_of_questions":3
                 },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
                 {
                     "topic_name":"DataType",
                     "number_of_questions":2
@@ -7355,19 +7167,11 @@ var user_session_history =
             [
                 {
                     "topic_name":"2D_Arrays",
-                    "number_of_questions":2
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
+                    "topic_name":"Loops",
+                    "number_of_questions":1
                 }
             ],
             [
@@ -7376,107 +7180,184 @@ var user_session_history =
                     "number_of_questions":1
                 },
                 {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
                     "topic_name":"Classes",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Java",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Classes",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Control",
-                    "number_of_questions":6
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":11
+                    "topic_name":"Control",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Operator",
                     "number_of_questions":3
                 }
             ]
@@ -7487,72 +7368,14 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Objects",
+                    "topic_name":"Operator",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
+                    "topic_name":"Method",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
                 }
             ],
             [
@@ -7561,84 +7384,223 @@ var user_session_history =
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Expression",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":10
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":15
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Method",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
+                    "topic_name":"Method",
+                    "number_of_questions":1
                 }
             ],
+            [],
             [
                 {
                     "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Primitive Data Type",
                     "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -7648,34 +7610,12 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
                     "topic_name":"DataType",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Method",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Operator",
@@ -7685,7 +7625,91 @@ var user_session_history =
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":6
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
                 }
             ],
             [
@@ -7694,78 +7718,42 @@ var user_session_history =
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":8
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Loops",
+                    "topic_name":"Strings",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Java",
+                    "topic_name":"Strings",
                     "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":2
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -7775,293 +7763,11 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":14
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
                     "topic_name":"Constructor",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                },
                 {
                     "topic_name":"Strings",
                     "number_of_questions":1
@@ -8069,18 +7775,168 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":11
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":11
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
                 },
                 {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
                 }
             ]
         ]
@@ -8090,11 +7946,31 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Strings",
+                    "topic_name":"Method",
                     "number_of_questions":1
                 }
             ],
@@ -8104,31 +7980,21 @@ var user_session_history =
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":8
+                    "topic_name":"Java",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"DataType",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
                 {
                     "topic_name":"Java",
                     "number_of_questions":2
@@ -8136,32 +8002,48 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
+                    "topic_name":"Operator",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":11
-                },
-                {
-                    "topic_name":"InputOutput",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 }
             ],
             [
@@ -8172,10 +8054,6 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":7
-                },
-                {
                     "topic_name":"Loops",
                     "number_of_questions":3
                 }
@@ -8184,30 +8062,6 @@ var user_session_history =
                 {
                     "topic_name":"2D_Arrays",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
                 }
             ]
         ]
@@ -8217,11 +8071,61 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":14
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
                 }
             ],
             [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                },
                 {
                     "topic_name":"Primitive Data Type",
                     "number_of_questions":1
@@ -8229,13 +8133,52 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":6
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Operator",
                     "number_of_questions":3
                 }
             ]
@@ -8246,122 +8189,177 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Control",
+                    "topic_name":"2D_Arrays",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":4
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Objects",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Variables",
+                    "topic_name":"Objects",
                     "number_of_questions":2
                 }
             ],
             [
                 {
                     "topic_name":"Classes",
-                    "number_of_questions":4
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Constructor",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":8
+                    "topic_name":"Control",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Method",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
                     "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -8371,110 +8369,50 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":12
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":13
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
+                    "topic_name":"Loops",
                     "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":11
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
+                    "topic_name":"Constructor",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
+                    "topic_name":"Arrays",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                },
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"Variables",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":7
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":1
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 }
             ],
             [
@@ -8483,39 +8421,25 @@ var user_session_history =
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"2D_Arrays",
                     "number_of_questions":1
-                }
-            ],
-            [
+                },
                 {
                     "topic_name":"Decisions",
                     "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
                 },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
                 {
                     "topic_name":"Strings",
                     "number_of_questions":3
@@ -8523,44 +8447,100 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
+                    "topic_name":"DataType",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":5
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":1
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
+                    "number_of_questions":3
                 }
             ],
             [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Expression",
                     "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Objects",
@@ -8569,11 +8549,25 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Java",
                     "number_of_questions":2
+                }
+            ],
+            [],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":1
                 }
             ]
@@ -8584,60 +8578,42 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":10
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Constructor",
                     "number_of_questions":2
                 },
                 {
                     "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Java",
                     "number_of_questions":3
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Variables",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":2
-                },
-                {
                     "topic_name":"DataType",
                     "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Variables",
@@ -8646,233 +8622,45 @@ var user_session_history =
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
+                    "topic_name":"Method",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Loops",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Operator",
                     "number_of_questions":2
-                },
+                }
+            ],
+            [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Variables",
+                    "topic_name":"Method",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Method",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Operator",
-                    "number_of_questions":4
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Operator",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                },
-                {
                     "topic_name":"Method",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":12
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
                 {
                     "topic_name":"Objects",
                     "number_of_questions":1
@@ -8880,48 +8668,89 @@ var user_session_history =
             ],
             [
                 {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":4
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":8
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Expression",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
                 },
                 {
                     "topic_name":"InputOutput",
-                    "number_of_questions":4
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
                 }
             ]
         ]
@@ -8931,11 +8760,87 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"2D_Arrays",
                     "number_of_questions":1
                 },
                 {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
                     "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Objects",
                     "number_of_questions":1
                 }
             ],
@@ -8945,80 +8850,118 @@ var user_session_history =
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":6
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Variables",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Strings",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":4
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Primitive Data Type",
+                    "topic_name":"Expression",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Control",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
                     "topic_name":"Primitive Data Type",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
                     "number_of_questions":1
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":12
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -9028,30 +8971,99 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
+                    "topic_name":"DataType",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Operator",
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Primitive Data Type",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
+                    "topic_name":"Method",
+                    "number_of_questions":2
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
                 }
             ],
             [
@@ -9060,67 +9072,17 @@ var user_session_history =
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                }
+            ],
+            [
                 {
                     "topic_name":"Java",
-                    "number_of_questions":7
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Loops",
-                    "number_of_questions":9
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":12
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
                     "number_of_questions":1
                 }
             ],
@@ -9128,70 +9090,76 @@ var user_session_history =
                 {
                     "topic_name":"Arithmetics",
                     "number_of_questions":2
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Decisions",
+                    "topic_name":"Objects",
                     "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Expression",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Objects",
                     "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Decisions",
+                    "topic_name":"Constructor",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
+                    "topic_name":"Expression",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Objects",
+                    "topic_name":"Strings",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":1
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
+                    "topic_name":"Classes",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":7
+                    "topic_name":"Operator",
+                    "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":7
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 }
             ]
         ]
@@ -9201,246 +9169,206 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"Java",
-                    "number_of_questions":7
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":2
-                },
-                {
                     "topic_name":"Loops",
-                    "number_of_questions":9
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                }
-            ],
-            [
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
                 {
                     "topic_name":"Control",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Expression",
+                    "topic_name":"Loops",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
                     "number_of_questions":1
                 }
             ],
             [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":1
+                },
                 {
                     "topic_name":"Control",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"InputOutput",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Primitive Data Type",
-                    "number_of_questions":2
-                },
-                {
                     "topic_name":"Variables",
-                    "number_of_questions":5
+                    "number_of_questions":1
                 }
             ],
             [
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":1
-                },
                 {
                     "topic_name":"Decisions",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
                     "number_of_questions":1
                 },
                 {
-                    "topic_name":"Arrays",
-                    "number_of_questions":9
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Arrays",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"DataType",
+                    "topic_name":"InputOutput",
                     "number_of_questions":2
                 },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
-                }
-            ],
-            [
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Operator",
                     "number_of_questions":2
                 }
             ],
             [
                 {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Expression",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"DataType",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Method",
+                    "number_of_questions":3
+                }
+            ],
+            [],
+            [
+                {
                     "topic_name":"2D_Arrays",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Arithmetics",
                     "number_of_questions":1
                 },
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":12
-                },
-                {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Decisions",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
                     "number_of_questions":3
                 },
                 {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":2
                 }
             ],
             [
                 {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":1
+                },
+                {
                     "topic_name":"Objects",
-                    "number_of_questions":3
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 },
                 {
                     "topic_name":"Strings",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Objects",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
+                    "topic_name":"Primitive Data Type",
+                    "number_of_questions":1
                 },
                 {
-                    "topic_name":"Constructor",
+                    "topic_name":"Strings",
                     "number_of_questions":1
                 }
             ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":8
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                }
-            ]
+            []
         ]
     },
     {
@@ -9448,180 +9376,48 @@ var user_session_history =
         "user_sessions":[
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Expression",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Variables",
-                    "number_of_questions":4
                 }
             ],
             [
                 {
                     "topic_name":"DataType",
-                    "number_of_questions":4
+                    "number_of_questions":3
                 },
                 {
-                    "topic_name":"InputOutput",
+                    "topic_name":"Expression",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Strings",
                     "number_of_questions":3
                 }
             ],
             [
                 {
-                    "topic_name":"DataType",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"InputOutput",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Method",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Variables",
+                    "topic_name":"Strings",
                     "number_of_questions":2
                 }
             ],
             [
                 {
-                    "topic_name":"2D_Arrays",
+                    "topic_name":"Strings",
                     "number_of_questions":1
-                },
-                {
-                    "topic_name":"Arithmetics",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Constructor",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"2D_Arrays",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Objects",
-                    "number_of_questions":1
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":3
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":3
                 }
             ],
             [
                 {
                     "topic_name":"Arrays",
-                    "number_of_questions":14
-                },
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Strings",
-                    "number_of_questions":5
-                }
-            ],
-            [
-                {
-                    "topic_name":"Loops",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Operator",
-                    "number_of_questions":2
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":6
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":2
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":6
-                }
-            ],
-            [
-                {
-                    "topic_name":"Classes",
-                    "number_of_questions":4
-                },
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
-                },
-                {
-                    "topic_name":"Java",
-                    "number_of_questions":8
-                }
-            ],
-            [
-                {
-                    "topic_name":"Control",
-                    "number_of_questions":5
-                },
-                {
-                    "topic_name":"Expression",
-                    "number_of_questions":1
+                    "number_of_questions":3
                 },
                 {
                     "topic_name":"Java",
                     "number_of_questions":3
-                }
-            ],
-            [
+                },
                 {
-                    "topic_name":"Decisions",
-                    "number_of_questions":3
+                    "topic_name":"Objects",
+                    "number_of_questions":2
                 },
                 {
                     "topic_name":"Primitive Data Type",
@@ -9630,8 +9426,145 @@ var user_session_history =
             ],
             [
                 {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Objects",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arrays",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Java",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Constructor",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Loops",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":2
+                }
+            ],
+            [
+                {
+                    "topic_name":"Arithmetics",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Variables",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":1
+                },
+                {
                     "topic_name":"Decisions",
-                    "number_of_questions":4
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"2D_Arrays",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Control",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"Decisions",
+                    "number_of_questions":1
+                },
+                {
+                    "topic_name":"Operator",
+                    "number_of_questions":1
+                }
+            ],
+            [],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":2
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":3
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
+                },
+                {
+                    "topic_name":"InputOutput",
+                    "number_of_questions":1
+                }
+            ],
+            [
+                {
+                    "topic_name":"Classes",
+                    "number_of_questions":3
                 }
             ]
         ]

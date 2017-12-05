@@ -5,12 +5,14 @@ from random import sample
 from random import shuffle
 import numpy as np
 import json
+import copy
 
 def create_doc(username, max_number_of_sessions, course_topics, groups_len):
+    course_topics = copy.deepcopy(course_topics)
     doc = {}
     doc["username"] = username
     doc["user_sessions"] = []
-    user_number_of_sessions = randint(0, max_number_of_sessions)
+    user_number_of_sessions = randint(10, max_number_of_sessions)
 
 
     topic_list = list(course_topics)
@@ -36,9 +38,14 @@ def create_doc(username, max_number_of_sessions, course_topics, groups_len):
             session_topics.sort()
             t1 = []
             for topic in session_topics:
+                if(course_topics[topic] <= 0):
+                    continue
+
                 session_info = {}
                 session_info["topic_name"] = topic
-                session_info["number_of_questions"] = randint(1, course_topics[topic])
+                number_of_questions =  min(randint(1, course_topics[topic]), 3)
+                session_info["number_of_questions"] = number_of_questions
+                course_topics[topic] -= number_of_questions
                 t1.append(session_info)
             doc["user_sessions"].append(t1)
     return doc
